@@ -85,7 +85,7 @@
 <a href="https://www.linkedin.com/in/abhinavepb/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+<a href="https://www.instagram.com/__.abhinave.__?igsh=b2F2ejBvODZnb2hl/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
