@@ -82,7 +82,7 @@
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:abhinavepb92@gmail.com)
 
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<a href="https://www.linkedin.com/in/abhinavepb/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/mmaximus.soares/" target="blank">
