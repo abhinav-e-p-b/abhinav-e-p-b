@@ -1,18 +1,4 @@
-<!--
-Credits and references used in this README:
-
-1) Layout ideas and section inspiration:
-   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
-
-2) Skill icons (SVG badges):
-   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
-
-3) GitHub stats card:
-   https://github.com/anuraghazra/github-readme-stats
--->
-
 #  All about Abhinave
-**`Growth Lead at NextWork`** 
 
 ## About Me
 - I build, ship, and tell the story in public.
@@ -21,15 +7,12 @@ Credits and references used in this README:
 
 
 ## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
      
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ae,discord,figma,github,html,java,linkedin,linux,mongodb,mysql,nodejs,notion,powershell,py,css,supabase" />
   </a>
 </p>
-
 
 
 ---
@@ -89,7 +72,7 @@ Credits and references used in this README:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
+![Abhinave's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav-e-p-b&show_icons=true&theme=gruvbox)
 
 ---
 
@@ -97,7 +80,7 @@ Credits and references used in this README:
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [**Contact**](mailto:maximus@nextwork.org)
+- [**Contact**](mailto:abhinavepb92@gmail.com)
 
 <a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
