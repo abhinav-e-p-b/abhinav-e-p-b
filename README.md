@@ -19,45 +19,43 @@
 
 ## Projects - showcase
 
+<!-- Project Card Template: Each cell follows the pattern below to reduce duplication
+     - Image link with consistent styling (width:100%; height:200px; object-fit:cover)
+     - Project title in bold
+     - Description in subscript
+     - Repo link with 🔗 icon
+     - Tags in subscript
+-->
 <table>
   <tr>
+    <!-- DeepSeek AI Chatbot -->
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg" alt="DeepSeek AI Project" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
-      <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
+      <br/><b>DeepSeek AI Chatbot</b><br/>
       <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
-      <br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a><br/>
       <sub>Tags: AI, LLMs, Prompt Engineering</sub>
     </td>
+    <!-- Cloud CI/CD Pipeline -->
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="CI/CD Pipeline Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png" alt="CI/CD Pipeline Project" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
-      <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
+      <br/><b>Cloud CI/CD Pipeline</b><br/>
       <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
-      <br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a><br/>
       <sub>Tags: DevOps, Docker, GitHub Actions</sub>
     </td>
+    <!-- Secure AWS VPC -->
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237" alt="VPC Networking Project" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
-      <br/>
-      <b>Secure AWS VPC</b><br/>
+      <br/><b>Secure AWS VPC</b><br/>
       <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
-      <br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a><br/>
       <sub>Tags: Networking, AWS, Security</sub>
     </td>
   </tr>
@@ -82,6 +80,7 @@
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:abhinavepb92@gmail.com)
 
+<!-- Social Media Icons: Using skill icons for consistent styling -->
 <a href="https://www.linkedin.com/in/abhinavepb/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
