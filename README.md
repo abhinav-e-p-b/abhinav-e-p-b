@@ -91,4 +91,9 @@
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
 ![image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRvMm9mdXJkcnNoczJkOThvcmsxYm94ZW44dTUyczBqMDBqeXdvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)
 
-![My GitHub Game](game.gif)
+## 🎮 Space Shooter (Auto-updated daily)
+
+<p align="center">
+  <img src="./game.gif" alt="Space Shooter Game" />
+</p>
+
