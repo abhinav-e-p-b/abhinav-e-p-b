@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2e1a,100:00ff88&height=220&section=header&text=ABHINAVE%20P%20B&fontSize=52&fontColor=00ff88&fontAlignY=36&desc=Builder%20%E2%80%A2%20Educator%20%E2%80%A2%20Cloud%20%26%20AI%20Engineer&descAlignY=56&descSize=17&descColor=7fffbf&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2e1a,100:00ff88&height=220&section=header&text=ABHINAVE%20P%20B&fontSize=52&fontColor=00ff88&fontAlignY=36&desc=Builder%20%E2%80%A2%20Cloud%20%26%20AI%20Engineer&descAlignY=56&descSize=17&descColor=7fffbf&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=I+build%2C+ship%2C+and+tell+the+story+in+public.;250K%2B+followers+grown+%40+NextWork;145%2C000%2B+students+taught+Cloud+%26+AI;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=I+build%2C+ship%2C+and+tell+the+story+in+public.;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,12 +23,10 @@
 name        : Abhinave P B
 location    : Thrissur, Kerala, India 🇮🇳
 focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
-community   : NextWork — 250K+ followers grown in 1 year
-teaching    : 145,000+ students across Cloud, AI & Tech
 ```
 
 - 🔨 I build things that range from **cloud pipelines** to **head-controlled browser extensions**
-- 🧠 Passionate about making tech accessible — I create content and courses that actually teach
+- 🧠 Passionate about making tech accessible
 - 🚢 My workflow: *ideate → build → ship → document → repeat*
 - 🎮 Yes, I also build games for fun
 
@@ -124,52 +122,69 @@ teaching    : 145,000+ students across Cloud, AI & Tech
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
-      </a>
       <br/><br/>
-      <b>🤖 DeepSeek AI Chatbot</b><br/>
-      <sub>LLM-powered chatbot for domain-specific Q&A using prompt engineering.</sub><br/><br/>
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="https://img.shields.io/badge/View-%2300ff88?style=flat-square&logo=github&logoColor=000"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AI-111?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LLMs-111?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Prompt%20Eng-111?style=flat-square"/>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
-      </a>
-      <br/><br/>
-      <b>⚙️ Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment via GitHub Actions and AWS ECS. Full DevOps lifecycle.</sub><br/><br/>
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+      <b>⚙️ Two-Tier Flask CI/CD Pipeline</b><br/>
+      <sub>Fully automated CI/CD pipeline deploying a Flask + MySQL app on AWS EC2 using Jenkins, Docker, and Docker Compose. Hands-free deployments triggered on every git push.</sub><br/><br/>
+      <a href="https://github.com/abhinav-e-p-b/DevOps-Project-Two-Tier-Flask-App">
         <img src="https://img.shields.io/badge/View-%2300ff88?style=flat-square&logo=github&logoColor=000"/>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/DevOps-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Jenkins-111?style=flat-square"/>
       <img src="https://img.shields.io/badge/Docker-111?style=flat-square"/>
       <img src="https://img.shields.io/badge/AWS-111?style=flat-square"/>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
-      </a>
       <br/><br/>
-      <b>🔐 Secure AWS VPC</b><br/>
-      <sub>Custom VPC with public/private subnets, routing tables & security groups.</sub><br/><br/>
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
+      <b>🚗 Indian ANPR Smart Parking System</b><br/>
+      <sub>End-to-end Automatic Number Plate Recognition for Indian vehicles. Three-stage pipeline: YOLOv8 detection → PaddleOCR reading → BoT-SORT deduplication. Supports real-time webcam, video, and batch image modes.</sub><br/><br/>
+      <a href="https://github.com/abhinav-e-p-b/Smart-Parking-App">
         <img src="https://img.shields.io/badge/View-%2300ff88?style=flat-square&logo=github&logoColor=000"/>
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/AWS-111?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Networking-111?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Security-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/YOLOv8-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PaddleOCR-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-111?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <br/><br/>
+      <b>🏥 De-Addiction App</b><br/>
+      <sub>A Flutter-based mobile application built for a hackathon to support de-addiction journeys. Cross-platform (Android & iOS) with a focus on user recovery workflows.</sub><br/><br/>
+      <a href="https://github.com/abhinav-e-p-b/De-Addiction-App">
+        <img src="https://img.shields.io/badge/View-%2300ff88?style=flat-square&logo=github&logoColor=000"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Dart-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Mobile-111?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <br/><br/>
+      <b>🔍 Build a RAG API</b><br/>
+      <sub>A Retrieval-Augmented Generation API that combines vector search with LLMs to answer queries grounded in your own documents. Built for scalable, context-aware AI responses.</sub><br/><br/>
+      <a href="https://github.com/abhinav-e-p-b/Build-a-RAG-API">
+        <img src="https://img.shields.io/badge/View-%2300ff88?style=flat-square&logo=github&logoColor=000"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/RAG-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LLMs-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Vector%20DB-111?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <br/><br/>
+      <b>🎨 MNIST GAN Studio</b><br/>
+      <sub>PyTorch GAN implementation with an interactive Flask + Socket.IO web UI for real-time training visualization and handwritten digit generation. Includes checkpoint management, live loss metrics, and one-click image export.</sub><br/><br/>
+      <a href="https://github.com/abhinav-e-p-b/MNIST-GAN-Project">
+        <img src="https://img.shields.io/badge/View-%2300ff88?style=flat-square&logo=github&logoColor=000"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/GAN-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Flask-111?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
     </td>
   </tr>
 </table>
