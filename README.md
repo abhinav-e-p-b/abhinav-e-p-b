@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2e1a,100:00ff88&height=220&section=header&text=ABHINAVE%20P%20B&fontSize=52&fontColor=00ff88&fontAlignY=36&desc=Builder%20%E2%80%A2%20Cloud%20%26%20AI%20Engineer&descAlignY=56&descSize=17&descColor=7fffbf&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2e1a,100:00ff88&height=220&section=header&text=ABHINAVE%20P%20B&fontSize=52&fontColor=00ff88&desc=Builder%20Cloud%20AI" />
 
 <br/>
 
@@ -117,7 +117,7 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 
 ---
 
-### ☁️ Cloud & AI Projects
+### ☁️ ML & AI Projects
 
 <table>
   <tr>
