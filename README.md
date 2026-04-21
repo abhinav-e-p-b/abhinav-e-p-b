@@ -217,11 +217,6 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-e-p-b&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
 ## 🎮 Space Shooter — Built for Fun
 
 > A pixel-art space shooter shipped from scratch — because real builders ship games too.
