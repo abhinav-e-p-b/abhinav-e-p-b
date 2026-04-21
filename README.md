@@ -211,11 +211,16 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhinav-e-p-b&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=abhinav-e-p-b&theme=monokai&no-frame=true&no-bg=true&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-e-p-b&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</p>
 
 ## 🎮 Space Shooter — Built for Fun
 
