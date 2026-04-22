@@ -11,6 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00ff88?style=for-the-badge&logoColor=000)](https://learn.nextwork.org/ecstatic_white_trusty_gecko/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavepb/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.abhinave.__?igsh=b2F2ejBvODZnb2hl/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhinave_p_b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavepb92@gmail.com)
 
 </div>
@@ -212,6 +213,16 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 <div align="center">
 
 [![trophy](https://trophy.ryglcloud.net/?username=abhinav-e-p-b&theme=monokai&no-frame=true&no-bg=true&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🧩 DSA Progress
+
+<div align ="center">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhinave_p_b?theme=dark&font=Baloo)
 
 </div>
 
