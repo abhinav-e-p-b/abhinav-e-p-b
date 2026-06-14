@@ -139,7 +139,7 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
       <br/><br/>
       <b>🚗 Indian ANPR Smart Parking System</b><br/>
       <sub>End-to-end Automatic Number Plate Recognition for Indian vehicles. Three-stage pipeline: YOLOv8 detection → PaddleOCR reading → BoT-SORT deduplication. Supports real-time webcam, video, and batch image modes.</sub><br/><br/>
-      <a href="https://github.com/abhinav-e-p-b/Smart-Parking-App">
+      <a href="https://github.com/abhinav-e-p-b/APS">
         <img src="https://img.shields.io/badge/View-%2300ff88?style=flat-square&logo=github&logoColor=000"/>
       </a>
       <br/><br/>
