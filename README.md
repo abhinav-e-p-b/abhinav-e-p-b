@@ -218,9 +218,10 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhinav-e-p-b&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=abhinav-e-p-b&theme=monokai&no-frame=true&no-bg=true&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 
 ---
 
