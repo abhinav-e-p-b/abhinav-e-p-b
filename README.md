@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00ff88?style=for-the-badge&logoColor=000)](https://learn.nextwork.org/ecstatic_white_trusty_gecko/portfolio)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00ff88?style=for-the-badge&logoColor=000)](https://abhinavep-b-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavepb/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.abhinave.__?igsh=b2F2ejBvODZnb2hl/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhinave_p_b/)
