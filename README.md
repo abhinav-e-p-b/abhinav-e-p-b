@@ -218,17 +218,7 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 
 <div align="center">
 
-[![trophy](https://trophy.ryglcloud.net/?username=abhinav-e-p-b&theme=monokai&no-frame=true&no-bg=true&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🧩 DSA Progress
-
-<div align ="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/abhinave_p_b?theme=dark&font=Baloo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhinav-e-p-b&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -240,6 +230,14 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 
 <p align="center">
   <img src="resources/game.gif" alt="Space Shooter Game" width="620"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-e-p-b&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
