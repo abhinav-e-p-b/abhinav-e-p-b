@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2e1a,100:00ff88&height=220&section=header&text=ABHINAVE%20P%20B&fontSize=52&fontColor=00ff88&desc=Builder%20Cloud%20AI" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2e1a,100:00ff88&height=220&section=header&text=ABHINAVE%20P%20B&fontSize=52
+fontColor=00ff88&desc=Builder%20Cloud%20AI" />
 
 <br/>
 
