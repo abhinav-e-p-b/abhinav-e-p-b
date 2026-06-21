@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2e1a,100:00ff88&height=220&section=header&text=ABHINAVE%20P%20B&fontSize=52&fontColor=00ff88&desc=Builder%20Cloud%20AI" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2e1a,100:00ff88&height=260&section=header&text=ABHINAVE%20P%20B&fontSize=52&fontColor=00ff88&desc=Builder%20•%20Cloud%20•%20AI&descSize=24&descAlignY=75" />
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=I+build%2C+ship%2C+and+tell+the+story+in+public.;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
