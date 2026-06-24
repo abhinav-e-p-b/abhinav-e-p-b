@@ -206,6 +206,18 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 </div>
 
 ---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/abhinave_p_b/">
+  <img src="https://leetcard.jacoblin.cool/abhinave_p_b?colors=0d1117,0a2e1a,00ff88,c9d1d9,00ff88,ffcc00,ff6b6b,00ff88&font=JetBrains_Mono" height="170"/>
+</a>
+
+</div>
+
+---
 # 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-e-p-b&theme=tokyo-night&hide_border=true"/>
