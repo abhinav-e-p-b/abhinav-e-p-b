@@ -1,0 +1,48 @@
+# Save this file as: .github/workflows/snake.yml
+# inside your abhinav-e-p-b/abhinav-e-p-b profile repository.
+#
+# One-time setup before it'll work:
+#   Repo → Settings → Actions → General → Workflow permissions →
+#   select "Read and write permissions" → Save.
+#
+# After that, push this file (or run it manually from the Actions tab)
+# and it will generate the SVGs the README's Contribution Snake section
+# points to, on a branch called "output".
+
+name: GitHub Snk Readme Workflow
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub contribution snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
