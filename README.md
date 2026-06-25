@@ -245,19 +245,6 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 
 ---
 
-<a name="contribution-snake"></a>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinav-e-p-b/abhinav-e-p-b/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinav-e-p-b/abhinav-e-p-b/output/github-snake.svg" />
-    <img alt="A snake eating through Abhinave's GitHub contribution graph" src="https://raw.githubusercontent.com/abhinav-e-p-b/abhinav-e-p-b/output/github-snake.svg" width="100%"/>
-  </picture>
-</p>
-
----
-
 <a name="achievements"></a>
 ## 🏆 Achievements
 
