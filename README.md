@@ -139,7 +139,22 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
         <img src="https://img.shields.io/badge/View%20Repo-%2300ff88?style=flat-square&logo=github&logoColor=000" alt="View Netflix Clone repository on GitHub"/>
       </a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🌐 abhinavepb2.0 — Personal Portfolio</h3>
+      <p>A sleek, animated personal portfolio site built in <strong>JavaScript</strong> and deployed on Vercel. Showcases projects, skills, and contact info with smooth transitions and a modern dark aesthetic.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML/CSS"/>
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff" alt="Vercel"/>
+      </p>
+      <a href="https://github.com/abhinav-e-p-b/abhinavepb2.0">
+        <img src="https://img.shields.io/badge/View%20Repo-%2300ff88?style=flat-square&logo=github&logoColor=000" alt="View abhinavepb2.0 repository on GitHub"/>
+      </a>
+      &nbsp;
+      <a href="https://landing-of-portfolio.vercel.app">
+        <img src="https://img.shields.io/badge/Live%20Demo-%2300ff88?style=flat-square&logo=vercel&logoColor=000" alt="Live Demo"/>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -200,8 +215,30 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
       <img src="https://img.shields.io/badge/GAN-111?style=flat-square" alt="GAN"/>
       <img src="https://img.shields.io/badge/Flask-111?style=flat-square" alt="Flask"/>
     </td>
-    <td align="center" width="33%"></td>
-    <td align="center" width="33%"></td>
+    <td align="center" width="33%">
+      <br/><br/>
+      <b>🔒 AI Security Scanner</b><br/>
+      <sub>A Python-based AI-powered security scanner that analyses codebases and files for vulnerabilities, secrets, and misconfigurations. Combines static analysis with AI heuristics for smarter threat detection.</sub><br/><br/>
+      <a href="https://github.com/abhinav-e-p-b/AI-Security-Scanner-Python">
+        <img src="https://img.shields.io/badge/View-%2300ff88?style=flat-square&logo=github&logoColor=000" alt="View AI Security Scanner repository on GitHub"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-111?style=flat-square" alt="Python"/>
+      <img src="https://img.shields.io/badge/AI-111?style=flat-square" alt="AI"/>
+      <img src="https://img.shields.io/badge/Security-111?style=flat-square" alt="Security"/>
+    </td>
+    <td align="center" width="33%">
+      <br/><br/>
+      <b>🚘 License Plate Recognition</b><br/>
+      <sub>Automatic Number Plate Recognition system using <strong>YOLOv8</strong> for real-time detection and OCR for reading plates. Supports Indian vehicle plates with high accuracy across varied lighting conditions.</sub><br/><br/>
+      <a href="https://github.com/abhinav-e-p-b/Automatic-License-Plate-Recognition">
+        <img src="https://img.shields.io/badge/View-%2300ff88?style=flat-square&logo=github&logoColor=000" alt="View License Plate Recognition repository on GitHub"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/YOLOv8-111?style=flat-square" alt="YOLOv8"/>
+      <img src="https://img.shields.io/badge/Python-111?style=flat-square" alt="Python"/>
+      <img src="https://img.shields.io/badge/OCR-111?style=flat-square" alt="OCR"/>
+    </td>
   </tr>
 </table>
 
