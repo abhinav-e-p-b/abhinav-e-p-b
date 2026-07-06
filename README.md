@@ -209,14 +209,19 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 
 <a name="github-stats"></a>
 ## 📊 GitHub Stats
- 
+
 <div align="center">
+
 <img src="https://github-readme-stats-six-ashy-24.vercel.app/api?username=abhinav-e-p-b&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true" height="170" alt="Abhinave's GitHub stats"/>
 &nbsp;
 <img src="https://github-readme-stats-six-ashy-24.vercel.app/api/top-langs/?username=abhinav-e-p-b&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" height="170" alt="Abhinave's most used languages"/>
+
 <br/>
+
 <img src="https://streak-stats.demolab.com/?user=abhinav-e-p-b&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ffcc00&currStreakLabel=00ff88" width="55%" alt="Abhinave's GitHub contribution streak"/>
+
 </div>
+
 ---
 
 <a name="leetcode-stats"></a>
