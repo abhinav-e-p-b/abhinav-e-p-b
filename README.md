@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[About](#about) • [Tech Stack](#tech-stack) • [Projects](#projects) • [GitHub Stats](#github-stats) • [LeetCode Stats](#leetcode-stats) • [Contribution Graph](#contribution-graph) • [Contribution Snake](#contribution-snake) • [Achievements](#achievements) • [Space Shooter](#space-shooter)
+[About](#about) • [Tech Stack](#tech-stack) • [Projects](#projects) • [GitHub Stats](#github-stats) • [LeetCode Stats](#leetcode-stats) • [Contribution Graph](#contribution-graph) • [Achievements](#achievements) • [Space Shooter](#space-shooter)
 
 </div>
 
