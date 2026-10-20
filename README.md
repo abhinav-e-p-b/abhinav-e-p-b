@@ -277,7 +277,7 @@ focus       : Cloud Infrastructure · AI/LLM · Full-Stack · Creative Dev
 <a name="contribution-graph"></a>
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-e-p-b&theme=tokyo-night&hide_border=true" alt="Abhinave's GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph-theta-puce.vercel.app/graph?username=abhinav-e-p-b&theme=tokyo-day&hide_border=true" alt="Abhinave's GitHub contribution activity graph"/>
 </p>
 
 ---
